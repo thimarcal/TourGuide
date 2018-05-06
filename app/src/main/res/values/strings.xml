@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Disney TourGuide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Disney World</string>
+    <string name="nav_header_subtitle">Travel to Disney</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Selections for Navigation Drawer-->
+    <string name="magic_kingdom">Magic Kingdom</string>
+    <string name="hollywood_studion">Hollywood Studion</string>
+    <string name="epcot_center">Epcot Center</string>
+    <string name="animal_kingdom">Animal Kingdom</string>
+
+    <string name="select">Select in Navigation Bar the desired Location</string>
+
+    <string name="fragment_key" translatable="false">fragment</string>
+
+    <!-- Utils Strings -->
+    <string name="cinderelas_castle">Cinderela\'s Castle</string>
+    <string name="cinderela_desc">Centered in the Park, it is a giant castle, representing Cinderela\'s Castle. Under it, there is a beauty shop for young girls.</string>
+    <string name="statue">Walt Disney\'s Statue</string>
+    <string name="statue_desc">In this statue, Walt Disney is showing Mickey the future.</string>
+
+    <string name="hat">Fantasia Hat</string>
+    <string name="hat_desc">Sourcerer\'s Hat, used by Mickey Mouse in Fantasia Movie.</string>
+    <string name="coaster">Rock n\' Roller Coaster</string>
+    <string name="coaster_desc">Coaster playing Aerosmith Musics</string>
+    <string name="tower">Hollywood Tower Hotel</string>
+    <string name="tower_desc">Haunted Hotel, where you fall with an elevator</string>
+
+    <string name="golf">Golf Ball</string>
+    <string name="golf_desc">This Giant Ball has a "time travel" inside it.</string>
+
+    <string name="tree">Tree Of Life</string>
+    <string name="tree_desc">With dozens of animals encraved to this Baoba tree, it\'s called the Tree of Life</string>
+    <string name="safari">Safari</string>
+    <string name="safari_desc">You will visit many animals, like in a real African Safari</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_magic_kingdom"
+            android:icon="@drawable/ic_flag"
+            android:title="@string/magic_kingdom" />
+        <item
+            android:id="@+id/nav_hollywood"
+            android:icon="@drawable/ic_action_movie"
+            android:title="@string/hollywood_studion" />
+        <item
+            android:id="@+id/nav_epcot"
+            android:icon="@drawable/ic_action_ball"
+            android:title="@string/epcot_center" />
+        <item
+            android:id="@+id/nav_animal"
+            android:icon="@drawable/ic_pets"
+            android:title="@string/animal_kingdom" />
+    </group>
+
+</menu>

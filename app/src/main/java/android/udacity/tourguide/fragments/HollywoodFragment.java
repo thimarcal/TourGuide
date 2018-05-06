@@ -1,6 +1,5 @@
 package android.udacity.tourguide.fragments;
 
-
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
@@ -27,7 +26,6 @@ public class HollywoodFragment extends Fragment {
         // Required empty public constructor
     }
 
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -44,10 +42,7 @@ public class HollywoodFragment extends Fragment {
 
         mRecyclerView.setAdapter(adapter);
 
-        // Inflate the layout for this fragment
         return view;
-
-
     }
 
 }

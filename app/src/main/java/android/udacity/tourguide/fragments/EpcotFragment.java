@@ -27,7 +27,6 @@ public class EpcotFragment extends Fragment {
         // Required empty public constructor
     }
 
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -44,10 +43,7 @@ public class EpcotFragment extends Fragment {
 
         mRecyclerView.setAdapter(adapter);
 
-        // Inflate the layout for this fragment
         return view;
-
-
     }
 
 }
